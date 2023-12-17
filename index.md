@@ -1,4 +1,3 @@
-# yuntao_wang.github.io
 <table border="0">
   <tr>
     <td width="100%">
