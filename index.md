@@ -31,7 +31,7 @@
 1.  **Yuntao Wang**, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan, and Pinghui Wang, "A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue," *IEEE/ACM Transactions on Networking*, DOI:10.1109/TNET.2022.3226458 (2023) 计算机网络领域顶级期刊，影响因子3.7
 1.  Yuntao Wang, Weiwei Chen, Tom H. Luan, Zhou Su, Qichao Xu, and Ruidong Li, Nan Chen, "Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks," *IEEE/ACM Transactions on Networking*, 30(4): 1525-1539 (2022) 计算机网络领域顶级期刊，影响因子3.7
 1.  **Yuntao Wang**, Haixia Peng, Zhou Su, Tom H. Luan, Abderrahim Benslimane, and Yuan Wu, "A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains," *IEEE Journal on Selected Areas in Communications*, 40(12): 3305-3324 (2022) 网络通信领域顶级期刊，影响因子16.4
-1.  **Yuntao Wang**, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan, "Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue," Proceedings of IEEE INFOCOM, 2021: 1-10网络通信领域顶级会议，入选ESI高被引论文（全球引用率前1%）
+1.  **Yuntao Wang**, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan, "Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue," *Proceedings of IEEE INFOCOM*, 2021: 1-10 网络通信领域顶级会议，入选ESI高被引论文（全球引用率前1%）
 1.  Zhou Su （申请人博士导师）, **Yuntao Wang**, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," *IEEE Transactions on Dependable and Secure Computing*, 19(1): 19-32 (2022) 网络与信息安全领域顶级期刊，影响因子7.3，入选ESI热点论文（全球引用率前0.1%），谷歌学术被引100余次）
 1.  王云涛,苏洲,许其超,刘怡良,彭海霞,栾浩. 基于审计博弈的安全协作频谱感知方案, *通信学报*, accepted. （CCF-A类推荐中文期刊）
 
