@@ -6,7 +6,8 @@
       <p><b>籍贯：江苏南京 </b></p>
       <p><b>邮箱：yuntao.wang@xjtu.edu.cn</b></p>
       <p><b>研究内容：空天地网络完全，区块链</b></p>
-      <p><b>[个人主页](https://gr.xjtu.edu.cn/web/yuntao.wang)&nbsp; &nbsp;  [谷歌学术](https://scholar.google.com.hk/citations?user=90fr-8wAAAAJ)</b></p>
+      <p><b>[个人主页](https://gr.xjtu.edu.cn/web/yuntao.wang)&nbsp; </b></p>
+      <p><b>[谷歌学术](https://scholar.google.com.hk/citations?user=90fr-8wAAAAJ)</b></p>
     </td>
   </tr>
 </table>
