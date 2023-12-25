@@ -13,9 +13,9 @@
 </table>
 
 # 简介
-- 研究领域聚焦**国家空天地安全战略**，在空天地网络安全方面以**第一作者（或导师第一作者、本人第二作者）**发表了包括**IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE JSAC, IEEE INFOCOM, IEEE COMST, 通信学报**等本领域**SCI一区期刊/CCF-A会议论文十余篇**，且 6 篇入选 ESI 高被引论文 (全球引用率前1%)，2 篇入选 ESI 热点论文 (全球引用率前0.1%).
-- 研究成果被 50 余位院士和IEEE Fellow 正面引用和高度评价，**单篇影响因子达35.6**，**单篇引用次数逾600次**，**总引用次数2500 余次**（谷歌学术截至2023年12月）。以第一作者获 IEEE BigDataSE2019 国际会议年度最佳论文奖（新西兰举办），作为共同作者获 IEEE IWCMC2022 国际会议年度最佳论文奖（克罗地亚举办），参与元宇宙专著撰写一部。
-- 主持**国家自然科学基金青年项目、科技部重点研发计划子课题、博士后面上项目、陕西省博士后项目**等，入选**2023年度国家博士后创新人才支持计划**。
+- 研究领域聚焦**国家空天地安全战略**，在空天地网络安全方面以**第一作者（或导师第一作者、本人第二作者）**发表了包括**IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE JSAC, IEEE INFOCOM, IEEE COMST, 通信学报**等本领域**IEEE SCI一区期刊/CCF-A论文十余篇**，且 8 篇入选 ESI 高被引论文 (全球引用率前1%)，2 篇入选 ESI 热点论文 (全球引用率前0.1%).
+- **论文总引用次数2500 余次**，**单篇引用次数逾600次**（谷歌学术截至2023年12月），**单篇影响因子达35.6**。以第一作者获 IEEE BigDataSE2019 国际会议年度最佳论文奖（新西兰举办），作为共同作者获 IEEE IWCMC2022 国际会议年度最佳论文奖（克罗地亚举办），参与国际首部元宇宙专著撰写。
+- 主持**国家自然科学基金青年项目、科技部重点研发计划子课题、博士后面上项目、陕西省博士后项目**等多项项目，入选**2023年度国家博士后创新人才支持计划**。
 
 # 教育&工作经历
 - 2022.12 -- 至今，西安交通大学，网络空间安全学院，助理教授
@@ -33,12 +33,12 @@
 1.  **Yuntao Wang**, Haixia Peng, Zhou Su, Tom H. Luan, Abderrahim Benslimane, and Yuan Wu, "A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains," *IEEE Journal on Selected Areas in Communications*, 40(12): 3305-3324 (2022) 网络通信领域顶级期刊，影响因子16.4
 1.  **Yuntao Wang**, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan, "Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue," *Proceedings of IEEE INFOCOM*, 2021: 1-10 网络通信领域顶级会议，入选ESI高被引论文（全球引用率前1%）
 1.  Zhou Su （申请人博士导师）, **Yuntao Wang**, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," *IEEE Transactions on Dependable and Secure Computing*, 19(1): 19-32 (2022) 网络与信息安全领域顶级期刊，影响因子7.3，入选ESI热点论文（全球引用率前0.1%），谷歌学术被引100余次）
-1.  王云涛,苏洲,许其超,刘怡良,彭海霞,栾浩. 基于审计博弈的安全协作频谱感知方案, *通信学报*, accepted. （CCF-A类推荐中文期刊）
+1.  **王云涛**,苏洲,许其超,刘怡良,彭海霞,栾浩. 基于审计博弈的安全协作频谱感知方案, *通信学报*, accepted. （CCF-A类推荐中文期刊）
 
 
 # 专著
 
-- **Yuntao Wang**, Zhou Su, Ning Zhang, Dongxiao Liu, Rui Xing, Tom H. Luan, Xuemin Shen, "Security Issues in Metaverse," in Metaverse Communication and Computing Networks: Applications, Technologies, and Approaches , *IEEE*, 2024, pp.205-239, doi: 10.1002/9781394160013.ch9.
+- **Yuntao Wang**, Zhou Su, Ning Zhang, Dongxiao Liu, Rui Xing, Tom H. Luan, Xuemin Shen, "Security Issues in Metaverse," in Metaverse Communication and Computing Networks: Applications, Technologies, and Approaches , *Wiley-IEEE Press*, 2024, pp.205-239. (国际上首部将元宇宙通信、计算与安全全面结合的著作)
 
 # 项目
 1.  2024-2026 基于联邦学习的物联网数据安全共享关键技术 (No.62302387)，国家自然科学基金青年科学基金项目，主持，在研
