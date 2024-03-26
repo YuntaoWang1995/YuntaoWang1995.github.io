@@ -35,9 +35,7 @@
 1.  **王云涛**,苏洲,许其超,刘怡良,彭海霞,栾浩. 基于审计博弈的安全协作频谱感知方案, *通信学报*, accepted. （CCF-A类推荐中文期刊）
 
 
-# 专著
 
-- **Yuntao Wang**, Zhou Su, Ning Zhang, Dongxiao Liu, Rui Xing, Tom H. Luan, Xuemin Shen, "Security Issues in Metaverse," in Metaverse Communication and Computing Networks: Applications, Technologies, and Approaches , *Wiley-IEEE Press*, 2024, pp.205-239. (国际上首部将元宇宙通信、计算与安全全面结合的著作)
 
 # 项目
 1.  2024-2026 基于联邦学习的物联网数据安全共享关键技术 (No.62302387)，国家自然科学基金青年科学基金项目，主持，在研
