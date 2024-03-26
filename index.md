@@ -14,7 +14,7 @@
 
 # 简介
 - 研究领域聚焦**国家空天地安全战略**，在空天地网络安全方面以**第一作者（或导师第一作者、本人第二作者）**发表了包括**IEEE TIFS, IEEE TDSC, IEEE/ACM ToN, IEEE JSAC, IEEE INFOCOM, IEEE COMST, 通信学报**等本领域**IEEE SCI一区期刊/CCF-A论文十余篇**，且 8 篇入选 ESI 高被引论文 (全球引用率前1%)，2 篇入选 ESI 热点论文 (全球引用率前0.1%).
-- **论文总引用次数2000 余次**，**单篇引用次数逾600次**（谷歌学术截至2023年12月），**单篇影响因子达35.6**。以第一作者获 IEEE BigDataSE2019 国际会议年度最佳论文奖（新西兰举办），作为共同作者获 IEEE IWCMC2022 国际会议年度最佳论文奖（克罗地亚举办）。
+- **论文总引用次数3000 余次**，**单篇引用次数逾600次**（谷歌学术截至2023年12月），**7篇论文引用次数过百**，**单篇影响因子达35.6**。以第一作者获 IEEE BigDataSE2019 国际会议年度最佳论文奖（新西兰举办），获 IEEE IWCMC2022 国际会议年度最佳论文奖（克罗地亚举办）。
 - 主持**国家自然科学基金青年项目、科技部重点研发计划子课题、博士后面上项目、陕西省博士后项目**等多项国家/省部级项目，入选**2023年度国家博士后创新人才支持计划**。
 
 # 教育&工作经历
@@ -32,6 +32,7 @@
 1.  **Yuntao Wang**, Haixia Peng, Zhou Su, Tom H. Luan, Abderrahim Benslimane, and Yuan Wu, "A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains," *IEEE Journal on Selected Areas in Communications*, 40(12): 3305-3324 (2022) 网络通信领域顶级期刊，影响因子16.4
 1.  **Yuntao Wang**, Zhou Su, Qichao Xu, Ruidong Li, and Tom H. Luan, "Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue," *Proceedings of IEEE INFOCOM*, 2021: 1-10 网络通信领域顶级会议，入选ESI高被引论文（全球引用率前1%）
 1.  Zhou Su （申请人博士导师）, **Yuntao Wang**, Qichao Xu, and Ning Zhang, "LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue," *IEEE Transactions on Dependable and Secure Computing*, 19(1): 19-32 (2022) 网络与信息安全领域顶级期刊，影响因子7.3，入选ESI热点论文（全球引用率前0.1%），谷歌学术被引100余次）
+2.  **Yuntao Wang**, Zhou Su, Yanghe Pan, Tom H. Luan, Ruidong Li, and Shui Yu, "Social-aware clustered federated learning with customized privacy preservation," *IEEE/ACM Transactions on Networking*, DOI: 10.1109/TNET.2024.3379439 (2024).计算机网络领域顶级期刊，影响因子3.7
 1.  **王云涛**,苏洲,许其超,刘怡良,彭海霞,栾浩. 基于审计博弈的安全协作频谱感知方案, *通信学报*, accepted. （CCF-A类推荐中文期刊）
 
 
